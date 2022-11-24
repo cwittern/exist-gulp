@@ -1,0 +1,8 @@
+# dot files
+.*
+!.gitignore
+
+# build folders
+node_modules
+build
+dist
